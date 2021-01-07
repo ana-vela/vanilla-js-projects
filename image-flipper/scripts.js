@@ -7,7 +7,7 @@ const image = document.querySelector(".image");
 // )
 
 function imageFlip() {
-  var x = Math.floor(Math.random() * 3 + 1);
+  var x = Math.floor(Math.random() * 5 + 1);
 
   console.log(x);
 
