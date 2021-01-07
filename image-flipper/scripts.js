@@ -1,11 +1,3 @@
-const images = ["puppy1", "puppy2", "puppy3"];
-const btn = document.getElementById("btn");
-const image = document.querySelector(".image");
-
-// document.getElementById('btn').addEventListener('click', function
-
-// )
-
 function imageFlip() {
   var x = Math.floor(Math.random() * 5 + 1);
 
